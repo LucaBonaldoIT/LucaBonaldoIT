@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @LucaBonaldoIT
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on any project
-- 📫 Reach me on my email address: lucabonaldoit@gmail.com
+I love creating and managing complex systems. I was born in Italy in 2003, and since a very young age, I have been in love with technology. I find happiness in every problem I manage to solve, every solution I optimize, and every person I help. Every day, I strive to learn as much as possible to improve both myself and the software I provide.
